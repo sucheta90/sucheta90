@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sucheta90
+- 👋 Hi, I’m SUCHETA
 - 👀 I’m interested in building responsive and user friendly websites and/ web applications.
 - 🌱 I’m currently learning Node.js, EJS/ Database.
 - 💞️ I’m looking to collaborate on UI/UX design and / Frontend Development.
