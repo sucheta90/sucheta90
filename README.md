@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SUCHETA
+# 👋 Hi, I’m Sucheta Mukherjee
 - 👀 I’m interested in building responsive and user friendly websites and/ web applications.
 - 🌱 I’m learning React by building an App in React.
 - 💞️ I’m looking to collaborate on UI/UX design and / Frontend Development.
