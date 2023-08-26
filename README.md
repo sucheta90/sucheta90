@@ -26,11 +26,4 @@ I'm always eager to connect with fellow developers, potential collaborators, and
 
 Thank you for visiting my portfolio. Let's innovate, collaborate, and build the future together!
 
----
 
-Remember, your portfolio description should reflect your personality, skills, and aspirations. Feel free to customize this template to make it uniquely yours. Highlight your achievements, goals, and the value you can bring to potential projects or teams.
-
-<!---
-sucheta90/sucheta90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
