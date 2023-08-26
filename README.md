@@ -22,7 +22,7 @@ Web development is a field that's constantly evolving, and I'm committed to stay
 
 **Let's Connect**
 
-I'm always eager to connect with fellow developers, potential collaborators, and anyone who shares a passion for technology. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/sucheta-mukherjee-07347b88/) or explore my [GitHub](https://github.com/sucheta90) to see more of my work.
+I'm always eager to connect with fellow developers, potential collaborators, and anyone who shares a passion for technology. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/sucheta-mukherjee-07347b88/) or explore my [GitHub Repositories](https://github.com/sucheta90?tab=repositories) to see more of my work.
 
 Thank you for visiting my portfolio. Let's innovate, collaborate, and build the future together!
 
